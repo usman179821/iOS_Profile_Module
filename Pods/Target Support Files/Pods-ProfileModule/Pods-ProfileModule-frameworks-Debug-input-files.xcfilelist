@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-ProfileModule/Pods-ProfileModule-frameworks.sh
+${BUILT_PRODUCTS_DIR}/RappleProgressHUD/RappleProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/SQLite.swift/SQLite.framework

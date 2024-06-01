@@ -1,0 +1,22 @@
+PODS:
+  - RappleProgressHUD (4.1)
+  - SQLite.swift (0.13.3):
+    - SQLite.swift/standard (= 0.13.3)
+  - SQLite.swift/standard (0.13.3)
+
+DEPENDENCIES:
+  - RappleProgressHUD
+  - SQLite.swift (~> 0.13.0)
+
+SPEC REPOS:
+  trunk:
+    - RappleProgressHUD
+    - SQLite.swift
+
+SPEC CHECKSUMS:
+  RappleProgressHUD: f29bc5dc5f9834c2caa9c2ae21ba11f3ff2b5a85
+  SQLite.swift: 903bfa3bc9ab06345fdfbb578e34f47cfcf417da
+
+PODFILE CHECKSUM: f3ac33f52594130da44ac4e7d0152e0880b1e8fd
+
+COCOAPODS: 1.14.3
